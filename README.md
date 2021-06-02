@@ -13,13 +13,13 @@
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
 <br>
-<img height=60px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"> 
+<img height=60px src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <br>
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg"> 
+<img height=65px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -31,7 +31,7 @@
 <td align="center" width="20%">
 <span><b><center>Maven</center></b></span> 
 <br>
-<img height=60px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachemaven.svg"> 
+<img height=60px src="https://seeklogo.com/images/M/maven-logo-5A9B272A6E-seeklogo.com.png"> 
 </td>
 
 
@@ -47,7 +47,7 @@
 <td align="center" width="20%">
 <span><b><center>Spring</center></b></span> 
 <br>
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spring.svg"> 
+<img height=65px src="https://seeklogo.com/images/S/spring-boot-logo-9D6125D4E7-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -59,7 +59,7 @@
 <td align="center" width="20%">
 <span><b><center>PostgeSQL</center></b></span> 
 <br>
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg"> 
+<img height=65px src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"> 
 </td>
 </tr>
 
@@ -67,19 +67,19 @@
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <br>
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg"> 
+<img height=65px src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Hibernate</center></b></span> 
 <br>
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hibernate.svg"> 
+<img height=65px src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Kotlin</center></b></span> 
 <br>
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg"> 
+<img height=65px src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -112,7 +112,7 @@
 <td align="center" width="20%">
 <span><b><center>Firebase</center></b></span> 
 <br>
-<img height=60px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg"> 
+<img height=60px src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"> 
 </td>
 
 </tr>
@@ -121,19 +121,19 @@
 <td align="center" width="20%">
 <span><b><center>JMeter</center></b></span> 
 <br>
-<img height=60px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachejmeter.svg"> 
+<img height=60px src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Android</center></b></span> 
 <br>
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/android.svg"> 
+<img height=65px src="https://seeklogo.com/images/A/android-icon-logo-DB06FA8B39-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
 <br>
-<img height=60px src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angularjs.svg"> 
+<img height=60px src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png"> 
 </td>
 
 <td align="center" width="20%">
