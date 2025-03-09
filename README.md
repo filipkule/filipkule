@@ -144,6 +144,33 @@
 
 </tr>
 
+<tr>
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<br>
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Openshift</center></b></span> 
+<br>
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/openshift.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<br>
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>AI</center></b></span> 
+<br>
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/github-copilot.svg"> 
+</td>
+
+</tr>
+
 </tbody>
 </table>
 
