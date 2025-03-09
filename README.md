@@ -92,9 +92,9 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
+<span><b><center>Vue</center></b></span> 
 <br>
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/vue.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -104,9 +104,9 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
+<span><b><center>Shell</center></b></span> 
 <br>
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
