@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Filip Kulevski](https://www.linkedin.com/in/filip-kulevski/) aka @filipkule
 - 👀 I’m interested in Open source and backend serverside solutions
-- 🌱 I’m currently learning Python and Kotlin
+- 🌱 I’m currently learning Python, Go and Kotlin
 - 💞️ I’m looking to collaborate on any open source project, from competitve to enterprise
 - 📫 You can reach me at filipkule@gmail.com
 
@@ -13,13 +13,13 @@
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
 <br>
-<img height=60px src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"> 
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <br>
-<img height=65px src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"> 
+<img height=65px src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -31,7 +31,7 @@
 <td align="center" width="20%">
 <span><b><center>Maven</center></b></span> 
 <br>
-<img height=60px src="https://seeklogo.com/images/M/maven-logo-5A9B272A6E-seeklogo.com.png"> 
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/maven.svg"> 
 </td>
 
 
@@ -47,7 +47,7 @@
 <td align="center" width="20%">
 <span><b><center>Spring</center></b></span> 
 <br>
-<img height=65px src="https://seeklogo.com/images/S/spring-boot-logo-9D6125D4E7-seeklogo.com.png"> 
+<img height=65px src="https://github.com/gilbarbara/logos/blob/main/logos/spring-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -59,7 +59,7 @@
 <td align="center" width="20%">
 <span><b><center>PostgeSQL</center></b></span> 
 <br>
-<img height=65px src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"> 
+<img height=65px src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg"> 
 </td>
 </tr>
 
@@ -67,19 +67,19 @@
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <br>
-<img height=65px src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"> 
+<img height=65px src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Hibernate</center></b></span> 
 <br>
-<img height=65px src="https://seeklogo.com/images/H/hibernate-logo-8C95C75A24-seeklogo.com.png"> 
+<img height=65px src="https://github.com/gilbarbara/logos/blob/main/logos/hibernate.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Kotlin</center></b></span> 
 <br>
-<img height=65px src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png"> 
+<img height=65px src="https://github.com/gilbarbara/logos/blob/main/logos/kotlin-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -112,28 +112,28 @@
 <td align="center" width="20%">
 <span><b><center>Firebase</center></b></span> 
 <br>
-<img height=60px src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"> 
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/firebase.svg"> 
 </td>
 
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>JMeter</center></b></span> 
+<span><b><center>Go</center></b></span> 
 <br>
-<img height=60px src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png"> 
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/go.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Android</center></b></span> 
 <br>
-<img height=65px src="https://seeklogo.com/images/A/android-icon-logo-DB06FA8B39-seeklogo.com.png"> 
+<img height=65px src="https://github.com/gilbarbara/logos/blob/main/logos/android-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
 <br>
-<img height=60px src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png"> 
+<img height=60px src="https://github.com/gilbarbara/logos/blob/main/logos/angular-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
